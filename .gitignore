@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Generated sample files (run scripts/make_samples.py)
+samples/*.pdf
+
+# Exports
+*.xlsx
+*.csv
